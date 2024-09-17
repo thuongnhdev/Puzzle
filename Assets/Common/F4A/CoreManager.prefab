@@ -1,0 +1,1270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2321194843476976215
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6223757354361734955}
+  - component: {fileID: 5960661450891000893}
+  m_Layer: 0
+  m_Name: FPSManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6223757354361734955
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2321194843476976215}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5960661450891000893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2321194843476976215}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a3b41f7b9d484b47b97cb0820068b5e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &3023200326877818989
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3023200326877818990}
+  - component: {fileID: 3023200326877818992}
+  - component: {fileID: 3023200326877818991}
+  m_Layer: 0
+  m_Name: IapManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3023200326877818990
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200326877818989}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3023200326877818992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200326877818989}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26fa68f4a40cd004087cb80a78c868dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  urlConfigInApp: 
+  textConfigDefault: {fileID: 4900000, guid: 6d5bb394d3a87468d831d2c199647e9f, type: 3}
+  iapSettingInfo:
+    isTestIAP: 0
+    enableAndroid: 1
+    enableIos: 1
+    AndroidProductInfos:
+    - Id: yomi.studio.art.story.package.remove_ads_new
+      Name: Remove banner and interstitial ads
+      Description: This package will remove banner ads and interstitial ads between
+        games.
+      Price: 109
+      Coin: 0
+      Discount: 0
+      eIapReward: 2
+      InAppTag: 0
+      Type: 1
+      nonConsumableType: 1
+    - Id: yomi.studio.art.story.package.15_hints
+      Name: 15 hints
+      Description: 15 hints
+      Price: 45
+      Coin: 15
+      Discount: 0
+      eIapReward: 0
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.5_hints
+      Name: 5 hints
+      Description: 5 hints
+      Price: 22
+      Coin: 5
+      Discount: 0
+      eIapReward: 0
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.1000_inks
+      Name: 1000 inks
+      Description: 1000 inks
+      Price: 45
+      Coin: 1000
+      Discount: 0
+      eIapReward: 1
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.50_hints
+      Name: 50 Hints
+      Description: 50 Hints
+      Price: 109
+      Coin: 50
+      Discount: 0
+      eIapReward: 0
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.pre_registration
+      Name: Pre Registration
+      Description: A free 2000 golds to unlock exclusive books.
+      Price: 1.99
+      Coin: 2000
+      Discount: 0
+      eIapReward: 4
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.3000_inks
+      Name: 3000 inks
+      Description: 3000 inks
+      Price: 109
+      Coin: 3000
+      Discount: 0
+      eIapReward: 1
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.one_time_purchase
+      Name: PREMIUM - ONE TIME PURCHASE
+      Description: PREMIUM - ONE TIME PURCHASE
+      Price: 699
+      Coin: 0
+      Discount: 0
+      eIapReward: 3
+      InAppTag: 0
+      Type: 1
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.300_inks
+      Name: 300 Inks
+      Description: 300 Inks
+      Price: 22
+      Coin: 300
+      Discount: 0
+      eIapReward: 0
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.subscription_weekly
+      Name: Weekly subscription
+      Description: Weekly subscription
+      Price: 45
+      Coin: 300
+      Discount: 0
+      eIapReward: 5
+      InAppTag: 0
+      Type: 2
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.subscription_monthly
+      Name: Monthly Subscription
+      Description: Monthly Subscription
+      Price: 129
+      Coin: 300
+      Discount: 0
+      eIapReward: 6
+      InAppTag: 0
+      Type: 2
+      nonConsumableType: 0
+    IOSProductInfos:
+    - Id: yomi.studio.art.story.package.remove_ads_new
+      Name: Remove banner and interstitial ads
+      Description: This package will remove banner ads and interstitial ads between
+        games.
+      Price: 109
+      Coin: 0
+      Discount: 0
+      eIapReward: 2
+      InAppTag: 0
+      Type: 1
+      nonConsumableType: 1
+    - Id: yomi.studio.art.story.package.15_hints
+      Name: 15 hints
+      Description: 15 hints
+      Price: 45
+      Coin: 15
+      Discount: 0
+      eIapReward: 0
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.5_hints
+      Name: 5 hints
+      Description: 5 hints
+      Price: 22
+      Coin: 5
+      Discount: 0
+      eIapReward: 0
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.1000_inks
+      Name: 1000 inks
+      Description: 1000 inks
+      Price: 45
+      Coin: 1000
+      Discount: 0
+      eIapReward: 1
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.50_hints
+      Name: 50 Hints
+      Description: 50 Hints
+      Price: 109
+      Coin: 50
+      Discount: 0
+      eIapReward: 0
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.pre_registration
+      Name: Pre Registration
+      Description: A free 2000 golds to unlock exclusive books.
+      Price: 1.99
+      Coin: 2000
+      Discount: 0
+      eIapReward: 4
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.3000_inks
+      Name: 3000 inks
+      Description: 3000 inks
+      Price: 109
+      Coin: 3000
+      Discount: 0
+      eIapReward: 1
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.one_time_purchase
+      Name: PREMIUM - ONE TIME PURCHASE
+      Description: PREMIUM - ONE TIME PURCHASE
+      Price: 699
+      Coin: 0
+      Discount: 0
+      eIapReward: 3
+      InAppTag: 0
+      Type: 1
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.300_inks
+      Name: 300 Inks
+      Description: 300 Inks
+      Price: 22
+      Coin: 300
+      Discount: 0
+      eIapReward: 0
+      InAppTag: 0
+      Type: 0
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.subscription_weekly
+      Name: Weekly subscription
+      Description: Weekly subscription
+      Price: 45
+      Coin: 7
+      Discount: 0
+      eIapReward: 5
+      InAppTag: 0
+      Type: 2
+      nonConsumableType: 0
+    - Id: yomi.studio.art.story.package.subscription_monthly_new
+      Name: Monthly Subscription
+      Description: Monthly Subscription
+      Price: 129
+      Coin: 30
+      Discount: 0
+      eIapReward: 6
+      InAppTag: 0
+      Type: 2
+      nonConsumableType: 0
+--- !u!114 &3023200326877818991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200326877818989}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 968f89215b1e8dc4c8b14bed410b94e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &3023200327173542893
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3023200327173542894}
+  - component: {fileID: 3023200327173542895}
+  m_Layer: 0
+  m_Name: FirebaseManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3023200327173542894
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327173542893}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3023200327173542895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327173542893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbc5b6d8e9ca24f2386c2e2b54bbdcb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _firebaseInfo:
+    _isEnableFirebase: 1
+    _urldatabase: 
+    _androidAppId: yomi.studio.art.story.picture.novels.puzzle.free.art.games
+    _iosAppId: yomi.studio.art.story.picture.novels.puzzle.free.art.games
+  bookFilename: BookData.json
+  partFilename: ChapterData.json
+  puzzleFilename: PuzzleData.json
+  puzzleCollectionFilename: PuzzlesCollection.json
+--- !u!1 &3023200327302646865
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3023200327302646866}
+  - component: {fileID: 3023200327302646867}
+  m_Layer: 0
+  m_Name: AssetManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3023200327302646866
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327302646865}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3023200327302646867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327302646865}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 404758d8de35c304282354a5c347a9ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LocalLabels:
+  - Puzzle_The_Wizard_Of_Oz_1
+  - Puzzle_Pride_and_prejudice_1
+  - Puzzle_Frankenstein_1
+  - Puzzle_A_Christmas_Carol_1
+  - Puzzle_Greek_Myth_1
+  - Puzzle_The_Secret_Garden_1
+  - Puzzle_The_Great_Gatsby_1
+  - Puzzle_Great_Gatsby_Tutorial_900x1200
+  - Music_Pride_and_Pre
+  - Music_Frankenstein_final
+  - Music_Gatsby
+  - Music_Myth
+  - Music_Xmas_Carol
+  - Music_The_Secret_Garden_20_final
+  - Music_ES_The_Wind_Is_Changing_-_Howard_Harper-Barnes
+--- !u!1 &3023200327435818530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3023200327435818532}
+  - component: {fileID: 3023200327435818531}
+  m_Layer: 0
+  m_Name: CoreManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3023200327435818532
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327435818530}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3023200328455976865}
+  - {fileID: 3023200327465751296}
+  - {fileID: 3023200326877818990}
+  - {fileID: 3023200327173542894}
+  - {fileID: 3023200327475002765}
+  - {fileID: 3023200327670914889}
+  - {fileID: 3023200327868943074}
+  - {fileID: 3023200327302646866}
+  - {fileID: 3023200327803489103}
+  - {fileID: 4125108837837485764}
+  - {fileID: 3023200327566662950}
+  - {fileID: 5828902746354543021}
+  - {fileID: 8395135738494736066}
+  - {fileID: 2672195574278530703}
+  - {fileID: 6223757354361734955}
+  - {fileID: 4921556965127846546}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3023200327435818531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327435818530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc2ce0888bee34b51a7a13407f6eb206, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _defineAdColony: 0
+  _defineAdMob: 0
+  _defineAdNative: 0
+  _defineUnityAds: 0
+  _defineCharstboost: 0
+  _defineVungle: 0
+  _defineIronSource: 0
+  _defineFacebookAds: 0
+  _defineIAP: 1
+  _defineFacebookSDK: 1
+  _defineGameServices: 0
+  _defineUnityAnalytic: 0
+  _defineFirebaseAnalytic: 1
+  _defineFirebaseCrashlytic: 1
+  _defineFirebaseMessaging: 1
+  _defineFirebaseAuth: 1
+  _defineFirebaseRemote: 1
+  _defineAppflyer: 0
+  _defineMixPanel: 0
+  IsGetConfigOnline: 1
+  _isRunInBackground: 1
+  urlConfig: 
+  textConfigDefault: {fileID: 4900000, guid: 1ccab90d2eab14de789cb0e65d53f1ab, type: 3}
+  configData:
+    IsDebug: 1
+    TargetFrameRate: 60
+    IsShowTextVersion: 0
+    IsNeverSleep: 1
+    idOrNameApp: 
+    urlAssetBundle: 
+    versionAssetBundle: 1
+    urlConfigAds: 
+    versionAds: 1
+    urlConfigWebView: 
+    versionWebView: 1
+    urlInAppPurchase: https://firebasestorage.googleapis.com/v0/b/art-story-701be.appspot.com/o/Data%2FIAPInfo.txt?alt=media&token=ee214463-8f6f-44a9-bfeb-8b43887449c9
+    versionIAP: 1
+    urlSocial: 
+    versionSocial: 1
+    urlConfigSms: 
+  resolutionDevice: 0
+  versionText: {fileID: 0}
+  toastPopup: {fileID: 0}
+  toastText: {fileID: 0}
+  rateUsPanel: {fileID: 0}
+  AdsBannerShape: {fileID: 0}
+  ipComponent:
+    country: None
+    countryCode: 
+    city: 
+    lat: 
+    lon: 
+    deviceUniqueIdentifier: 
+    deviceModel: 
+--- !u!1 &3023200327465751359
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3023200327465751296}
+  - component: {fileID: 3023200327465751297}
+  m_Layer: 0
+  m_Name: SocialManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3023200327465751296
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327465751359}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3023200327465751297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327465751359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4396672e8d298b4caa0e964263a4c60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  urlConfigSocial: 
+  textConfigDefault: {fileID: 4900000, guid: 7316249928493464e9e61c23207bccf7, type: 3}
+  socialSettingInfo:
+    _storeGameInfos:
+    - _storePublishType: 0
+      _nameStore: Apple Store
+      _urlGameOnStore: https://appstoreconnect.apple.com/apps/1587654970/appstore/ios/version/inflight
+      _urlDeveloperOnStore: https://appstoreconnect.apple.com/apps/1587654970/appstore/ios/version/inflight
+      _mailTo: artstory@yomi.studio
+    - _storePublishType: 1
+      _nameStore: Google Play Store
+      _urlGameOnStore: https://play.google.com/store
+      _urlDeveloperOnStore: https://play.google.com/store
+      _mailTo: artstory@yomi.studio
+    linkWebsite: 
+    googlePageLink: 
+    linkTwitter: 
+    _linkPolicy: 
+    _linkTerms: 
+    linkImageShareFB: 
+    linkFacebookPage: 
+    linkInstagram: 
+    facebookPermisions:
+    - public_profile
+    - email
+    facebookQueryFields:
+    - id
+    - email
+    - name
+    - first_name
+    - last_name
+    widthAvatarFacebook: 64
+    heightAvatarFacebook: 64
+    isGetUserInfoFacebook: 1
+    hasInviteFriend: 0
+    versionGooglePlayServices: 
+    _isStartGameServicesWhenStart: 0
+    _enableLeaderBoard: 1
+    _enableAchievement: 1
+  facebookUserId: 
+--- !u!1 &3023200327475002764
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3023200327475002765}
+  - component: {fileID: 3023200327475002766}
+  m_Layer: 0
+  m_Name: AnalyticManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3023200327475002765
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327475002764}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3023200327475002766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327475002764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5698b43d16c2da4ab0127503b5a1e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &3023200327566662949
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3023200327566662950}
+  - component: {fileID: 3023200327566662951}
+  m_Layer: 0
+  m_Name: AppleSignInManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3023200327566662950
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327566662949}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3023200327566662951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327566662949}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa8cb4830701e024eb2a97727d844d33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &3023200327670914888
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3023200327670914889}
+  - component: {fileID: 3023200327670914890}
+  m_Layer: 0
+  m_Name: ConfigManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3023200327670914889
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327670914888}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3023200327670914890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327670914888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5085cc44eada5b468229e8f5f64b452, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IsLog: 1
+  IsLogFormat: 1
+  IsLogInfor: 1
+  IsLogWarning: 1
+  IsLogError: 1
+  IsLogException: 1
+--- !u!1 &3023200327803489102
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3023200327803489103}
+  - component: {fileID: 3023200327803489104}
+  m_Layer: 0
+  m_Name: NotificationManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &3023200327803489103
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327803489102}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3023200327803489104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327803489102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef31edb53449f42b394c0f38d656e792, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NotificationsManager: {fileID: 0}
+  time: 0b0000000f00000013000000
+--- !u!1 &3023200327868943073
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3023200327868943074}
+  - component: {fileID: 3023200327868943076}
+  - component: {fileID: 3023200327868943075}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3023200327868943074
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327868943073}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3023200327868943076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327868943073}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c33adafa0777819448277f22ae7aaa65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bgMusicAudioSource: {fileID: 3023200327868943075}
+  musics: []
+  effects: []
+  audioClick: {fileID: 0}
+  listMusicActive: []
+--- !u!82 &3023200327868943075
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200327868943073}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!1 &3023200328455976864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3023200328455976865}
+  - component: {fileID: 3023200328455976866}
+  m_Layer: 0
+  m_Name: AdsManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3023200328455976865
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200328455976864}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3023200328455976866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023200328455976864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af75444a5d9e30409c7fb6b9701bdc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &3941178317497755592
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5828902746354543021}
+  - component: {fileID: 295095775322204125}
+  m_Layer: 0
+  m_Name: GameSession
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5828902746354543021
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3941178317497755592}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 373.60052, y: 785.97253, z: -189.32115}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &295095775322204125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3941178317497755592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e3f45ace1c7c4374a3e3e3040e0d131, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &4335765095845978697
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2672195574278530703}
+  - component: {fileID: 7399262156234079884}
+  m_Layer: 0
+  m_Name: NotificationsManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2672195574278530703
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4335765095845978697}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 905, y: 279.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7399262156234079884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4335765095845978697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cee98b792935d2499e84d5f659c1895, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mode: 7
+  autoBadging: 1
+--- !u!1 &5693405623152509173
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4125108837837485764}
+  - component: {fileID: 62054073585523896}
+  m_Layer: 0
+  m_Name: Dispatcher
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4125108837837485764
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5693405623152509173}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &62054073585523896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5693405623152509173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cd02ac639ea044c8b206feb69edd21b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &5846341581690379788
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4921556965127846546}
+  - component: {fileID: 4228504851528704997}
+  m_Layer: 0
+  m_Name: MasterData
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4921556965127846546
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5846341581690379788}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4228504851528704997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5846341581690379788}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6db2bcf4a0e9b3f4983ce6f636e2386f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bookDatas:
+  - {fileID: 11400000, guid: 0aade400880b14a54ba462b9f97f56bb, type: 2}
+  - {fileID: 11400000, guid: b63b725ac72cd41deac8b52cc200947c, type: 2}
+  - {fileID: 11400000, guid: 26245225684384b71a78e5cdb514c819, type: 2}
+  - {fileID: 11400000, guid: 78a26b5787fd1445c9bfc2331d666b94, type: 2}
+  - {fileID: 11400000, guid: 5ada65439dd1c4eb7b92acf60d3521b6, type: 2}
+  - {fileID: 11400000, guid: 8a2a0631b66534362a650127aa5e60d3, type: 2}
+  - {fileID: 11400000, guid: 56fe80f5c9c0041a7a9eae2594aa552b, type: 2}
+  - {fileID: 11400000, guid: 3a1985aa547b2469b8829cafdaed9ba1, type: 2}
+  - {fileID: 11400000, guid: 44a81099b2a6346ad8ebdd2d5e71ef26, type: 2}
+  - {fileID: 11400000, guid: afb0ebc4c7981431186029f2ac849e5e, type: 2}
+  - {fileID: 11400000, guid: 53256709a78ef4e51926481256675680, type: 2}
+  - {fileID: 11400000, guid: 4593ea1f8d551483cb3a5689c705f6ba, type: 2}
+  - {fileID: 11400000, guid: 18802ba9677364056b24f0016019b53c, type: 2}
+  - {fileID: 11400000, guid: b628cf752b81449be83d7622035bfd9e, type: 2}
+  - {fileID: 11400000, guid: a714bcfcacf854a0e9fd9a6c64a3ca90, type: 2}
+  - {fileID: 11400000, guid: 155347274672f4dc58245937ccc16e60, type: 2}
+  - {fileID: 11400000, guid: a2744827d3b574db19c06553652080e5, type: 2}
+  - {fileID: 11400000, guid: f62698ba0588e48848e6578120c0d1e7, type: 2}
+  - {fileID: 11400000, guid: ba917d002f4044bbab1260c1da986144, type: 2}
+  - {fileID: 11400000, guid: 877aec81064ae4393b60caab96db9b5f, type: 2}
+  - {fileID: 11400000, guid: 1895cb52fa55d4c05b649071b319e833, type: 2}
+  - {fileID: 11400000, guid: 66435146c44684464967655f2ec33689, type: 2}
+  - {fileID: 11400000, guid: 312d1f319c9904e82b6418d71ae4d03a, type: 2}
+  TutorialPuzzle:
+  - {fileID: 11400000, guid: 970af64d6582a4b56ae0ab2f0a0a4fcb, type: 2}
+  - {fileID: 11400000, guid: 135a5c14c0d5ab74cadc45fc2d6b1de8, type: 2}
+  oldCollectionData: {fileID: 0}
+  homePageData: {fileID: 11400000, guid: 49aae8a00d2ab1946be6aa9c327971c3, type: 2}
+  liveEventData: {fileID: 11400000, guid: 343c92d03d5ab284bbfbe4c94033f26b, type: 2}
+--- !u!1 &9142624588492997691
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8395135738494736066}
+  - component: {fileID: 6261498525708666610}
+  m_Layer: 0
+  m_Name: ConversionValueManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8395135738494736066
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9142624588492997691}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3023200327435818532}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6261498525708666610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9142624588492997691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a8abb789b36f47239351fd56db3ec13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

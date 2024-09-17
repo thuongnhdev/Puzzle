@@ -1,0 +1,3419 @@
+{
+    "baseAbilities": [
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Romeo_And_Juliet_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Trojan_War_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_32"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_23"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Metamorphosis_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_25"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_33"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Trojan_War_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_27"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_19"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_31"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_24"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_20"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_30"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Trojan_War_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_26"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_19"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Romeo_And_Juliet_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_22"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Metamorphosis_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Romeo_And_Juliet_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_26"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_21"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_29"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_21"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_25"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_21"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_35"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_20"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Trojan_War_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_20"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_26"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_37"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_24"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_34"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_36"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_24"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_22"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_28"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_19"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_23"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_25"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Trojan_War_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_19"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_29"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_30"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_31"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_20"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_30"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_33"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_28"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_38"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_35"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_34"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_39"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_39"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Trojan_War_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_32"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Trojan_War_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_43"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_41"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_37"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_40"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_24"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_42"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_41"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_36"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_38"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_43"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_26"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_42"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_45"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_19"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_40"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_23"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_47"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_44"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_28"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_20"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_25"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_21"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_59"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_19"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_48"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_46"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_52"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_27"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_51"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Trojan_War_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_53"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_36"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_30"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_50"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_23"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Metamorphosis_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_49"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_29"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_24"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_58"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_22"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_20"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_57"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_23"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_23"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_54"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Trojan_War_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_29"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_56"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_55"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Trojan_War_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_31"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Metamorphosis_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_22"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_32"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_33"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_29"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Trojan_War_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Metamorphosis_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_34"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_19"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_60"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_32"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_21"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_19"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_20"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_38"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_39"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Metamorphosis_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_32"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_35"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_63"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_28"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Metamorphosis_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_61"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_65"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Metamorphosis_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_64"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_40"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_37"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jekyll_Hyde_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_27"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Metamorphosis_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_22"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_41"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_24"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_62"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_24"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_35"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_19"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_28"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_22"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_34"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_33"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_11"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_25"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_20"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_26"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_21"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_21"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_43"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_31"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_25"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_42"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_23"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_30"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Aesop_Fables_20"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_24"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_19"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_22"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_7"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_26"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_33"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_21"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_6"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_19"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Wizard_Of_Oz_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_25"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_3"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Jane_Eyre_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Secret_Garden_27"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Time_Machine_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_4"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_20"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_12"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_2"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_22"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_34"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_27"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_5"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_31"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_23"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_1"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Dracula_8"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_10"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_9"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_35"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_30"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_46"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_50"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_53"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_47"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_27"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_19"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_49"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_45"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_21"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_27"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_24"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_26"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_44"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Great_Gatsby_45"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_28"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_26"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_23"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_48"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_51"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_22"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_46"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_25"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_52"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Christmas_Carol_44"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_20"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Frankenstein_29"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Hamlet_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_32"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Legend_of_Sleepy_Hollow_26"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_28"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_13"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_30"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_29"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Legend_of_Sleepy_Hollow_28"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_28"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_21"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Legend_of_Sleepy_Hollow_27"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_27"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_18"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Pride_And_Prejudice_31"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_29"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_47"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Legend_of_Sleepy_Hollow_29"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_24"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_20"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_30"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_30"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_48"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_27"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_23"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_27"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Alice_15"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_45"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_26"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_39"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_25"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_36"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_16"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_26"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_43"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_38"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_17"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_44"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_37"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_29"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_25"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "A_Midsummer_Night_Dream_14"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_40"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Legend_of_Sleepy_Hollow_25"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_49"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_42"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_46"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Peter_Pan_22"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Greek_Myth_41"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "The_Invisible_Man_28"
+      },
+      {
+        "CollectionId": 1,
+        "CollectionName": "All",
+        "PuzzleName": "Macbeth_15"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "Alice_8"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "Greek_Myth_5"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "A_Midsummer_Night_Dream_1"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "A_Christmas_Carol_30"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "The_Wizard_Of_Oz_3"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "Frankenstein_2"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "The_Time_Machine_3"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "Aesop_Fables_1"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "A_Midsummer_Night_Dream_2"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "Greek_Myth_1"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "Alice_9"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "The_Wizard_Of_Oz_12"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "Greek_Myth_2"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "Frankenstein_1"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "A_Midsummer_Night_Dream_6"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "Greek_Myth_3"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "The_Wizard_Of_Oz_14"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "A_Christmas_Carol_26"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "Alice_13"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "Aesop_Fables_2"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "A_Christmas_Carol_11"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "The_Wizard_Of_Oz_8"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "A_Christmas_Carol_8"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "The_Time_Machine_4"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "The_Wizard_Of_Oz_13"
+      },
+      {
+        "CollectionId": 2,
+        "CollectionName": "Fantasy",
+        "PuzzleName": "Alice_11"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Frankenstein_25"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Hamlet_1"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Macbeth_2"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Dracula_6"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Jekyll_Hyde_7"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Metamorphosis_3"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Frankenstein_24"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Hamlet_7"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Dracula_3"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Hamlet_2"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Jekyll_Hyde_3"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Frankenstein_23"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Hamlet_6"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Metamorphosis_2"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Macbeth_1"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Macbeth_8"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Frankenstein_4"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Dracula_2"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Macbeth_7"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Jekyll_Hyde_2"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Dracula_4"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Macbeth_6"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Dracula_5"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Frankenstein_6"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Jekyll_Hyde_1"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Metamorphosis_1"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Frankenstein_7"
+      },
+      {
+        "CollectionId": 3,
+        "CollectionName": "Dark",
+        "PuzzleName": "Jekyll_Hyde_6"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Pride_And_Prejudice_23"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Jane_Eyre_11"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "The_Great_Gatsby_5"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "A_Midsummer_Night_Dream_8"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Trojan_War_6"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Pride_And_Prejudice_25"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "The_Great_Gatsby_2"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Pride_And_Prejudice_19"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Romeo_And_Juliet_2"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Jane_Eyre_5"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Pride_And_Prejudice_20"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Romeo_And_Juliet_1"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Jane_Eyre_3"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Pride_And_Prejudice_24"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Romeo_And_Juliet_3"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Jane_Eyre_12"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "The_Great_Gatsby_7"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Jane_Eyre_4"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "A_Midsummer_Night_Dream_12"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Jane_Eyre_2"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "A_Midsummer_Night_Dream_7"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "The_Great_Gatsby_23"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Trojan_War_1"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "The_Great_Gatsby_18"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "A_Midsummer_Night_Dream_11"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Trojan_War_2"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "A_Midsummer_Night_Dream_10"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Trojan_War_4"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Pride_And_Prejudice_26"
+      },
+      {
+        "CollectionId": 4,
+        "CollectionName": "Romance",
+        "PuzzleName": "Trojan_War_5"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Time_Machine_8"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "Peter_Pan_18"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Secret_Garden_4"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Wizard_Of_Oz_15"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Invisible_Man_5"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "Peter_Pan_19"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Secret_Garden_13"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Wizard_Of_Oz_17"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Time_Machine_17"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "Peter_Pan_11"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Time_Machine_23"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Secret_Garden_14"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Time_Machine_16"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Wizard_Of_Oz_18"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Secret_Garden_15"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Time_Machine_15"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Invisible_Man_3"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Time_Machine_22"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "Peter_Pan_9"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Time_Machine_29"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Secret_Garden_8"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Time_Machine_19"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "Peter_Pan_13"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Wizard_Of_Oz_20"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Secret_Garden_9"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "Peter_Pan_1"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Secret_Garden_5"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "Trojan_War_7"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "The_Wizard_Of_Oz_19"
+      },
+      {
+        "CollectionId": 5,
+        "CollectionName": "Adventure",
+        "PuzzleName": "Trojan_War_9"
+      }
+    ]       
+}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9af75444a5d9e30409c7fb6b9701bdc4
+labels:
+- al_max
+- al_max_export_path-MaxSdk\Scripts\ADS.cs
+- al_max_export_path-MaxSdk\Scripts\AdsManager\ADS.cs
+- al_max_export_path-MaxSdk\Scripts\AdsManager\AdsService.cs
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
